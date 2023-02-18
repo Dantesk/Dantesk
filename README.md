@@ -35,8 +35,8 @@ Software Developer at [Elasian](https://www.elaisian.com)
 -->
 
 #### Keep in touch :smiley:
-[![](https://github.com/Forz70043/Forz70043/blob/master/images/linkedin.png)](https://www.linkedin.it/in/paololagalante)
-[![](https://github.com/Forz70043/Forz70043/blob/master/images/instagram.png)](https://www.instagram.com/paolo_lagalante/)
+[![](/images/linkedin.png)](https://www.linkedin.it/in/paololagalante)
+[![](/images/instagram.png)]](https://www.instagram.com/paolo_lagalante/)
 
 <!--
 **Dantesk/Dantesk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
