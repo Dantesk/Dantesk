@@ -20,6 +20,10 @@ Junior Developer at [IBM Client Innovation Center](https://www.ibm.com)
 Software Developer at [Elasian](https://www.elaisian.com)
 
 <hr>
+
+#### Keep in touch :smiley:
+[![](/images/linkedin.png)](https://www.linkedin.it/in/paololagalante)
+[![](/images/instagram.png)]](https://www.instagram.com/paolo_lagalante/)
 <!--
 ## :dart: Goals
 
@@ -33,10 +37,6 @@ Software Developer at [Elasian](https://www.elaisian.com)
 - [x] Start a programmer career
 - [x] Attended a startups accelerator program
 -->
-
-#### Keep in touch :smiley:
-[![](/images/linkedin.png)](https://www.linkedin.it/in/paololagalante)
-[![](/images/instagram.png)]](https://www.instagram.com/paolo_lagalante/)
 
 <!--
 **Dantesk/Dantesk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
