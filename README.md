@@ -1,8 +1,8 @@
   
 # Alfonso
-[![](https://img.shields.io/badge/OS-Ubuntu-orange?style=for-the-badge&logo=appveyor)](https://ubuntu.com/)?style=for-the-badge&logo=appveyor
-[![](https://img.shields.io/badge/OS-Fedora-blue?style=flat&logo=linux&logoColor=black)](https://fedora.com/)
-[![](https://img.shields.io/badge/Editor-VS%20Code-blue?style=flat&logo=visual-studio-code&logoColor=black)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/OS-Ubuntu-orange?style=for-the-badge&logo=appveyor)](https://ubuntu.com/)
+[![](https://img.shields.io/badge/OS-Fedora-blue?style=for-the-badge&logo=appveyor)](https://fedora.com/)
+[![](https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=appveyor)](https://code.visualstudio.com/)
 
 <hr>
 
