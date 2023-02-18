@@ -23,7 +23,7 @@ Software Developer at [Elasian](https://www.elaisian.com)
 
 #### Keep in touch :smiley:
 [![](/images/linkedin.png)](https://www.linkedin.it/in/paololagalante)
-[![](/images/instagram.png)]](https://www.instagram.com/paolo_lagalante/)
+[![](/images/instagram.png)](https://www.instagram.com/paolo_lagalante/)
 <!--
 ## :dart: Goals
 
