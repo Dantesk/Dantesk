@@ -15,7 +15,7 @@ Developer at [Yuwipi](https://www.yuwpi.de/)
 Freelancer
 
 #### Previusly
-Junior Developer at [IBM Client Innovation Center](https://www.ibm.com)
+IT Specialist at [IBM Client Innovation Center](https://www.ibm.com)
 
 Software Developer at [Elasian](https://www.elaisian.com)
 
