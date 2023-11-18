@@ -4,6 +4,8 @@
 [![](https://img.shields.io/badge/OS-Fedora-blue?style=for-the-badge&logo=fedora)](https://fedora.com/)
 [![](https://img.shields.io/badge/OS-REDHAT-red?style=for-the-badge&logo=redhat)](https://www.redhat.com/en)
 [![](https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com/)
+
+
 [![](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/javascript)
 <hr>
 
