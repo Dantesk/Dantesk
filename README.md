@@ -7,7 +7,7 @@
 
 
 [![](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/javascript)
-[![](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)](https://react.dev/)
+[![](https://img.shields.io/badge/React?style=for-the-badge&logo=react)](https://react.dev/)
 <hr>
 
 ## :briefcase: Experience 
