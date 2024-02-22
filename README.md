@@ -13,7 +13,7 @@
 ## :briefcase: Experience 
 
 #### Currently
-Developer at [Yuwipi](https://www.yuwpi.de/)
+Developer at [Yuwipi](https://www.yuwipi.de/)
 
 Freelancer
 
